@@ -21,4 +21,7 @@ def calcstep(begin, end, step = 1):
 
 print("1~10 = ", calcstep(1, 10, 2))
 print("1~10 = ", calcstep(1, 100))
-print("1~10 = ", calcstep(end=10, begin=1, step=2)) #이렇게 지정해주면 순서 지키지 않아도 상관 없다
+
+print("1~10 = ", calcstep(end=10, begin=1, step=2))
+#이런 걸 키워드인수라고 한다.
+#이렇게 지정해주면 순서 지키지 않아도 상관 없다
