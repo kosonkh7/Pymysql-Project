@@ -15,3 +15,4 @@ def calcrange(begin, end):
 print("4까지의 합 : ", calcsum(4))
 print("10까지의 합 : ", calcsum(10))
 print("3에서 8까지의 합", calcrange(3, 8))
+

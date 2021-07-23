@@ -26,4 +26,3 @@ if check_phone(jphone) == "":
     print("사용 불가능한 전화번호입니다.")
 else:
     print("사용 가능한 전화번호 입니다. (", check_phone(jphone), ")")
-
