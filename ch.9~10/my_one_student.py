@@ -1,12 +1,12 @@
 one_list = ['ko', 54.2, 94.3, 34.3]
 
-def calcavg(list):
+def calcavg(st_list):
     sum = 0
-    for i in list[1:]:
+    for i in st_list[1:]:
         sum += i
-    avg = sum / len(list[1:])
-    print(list[0], '의 평균:', round(avg, 2))
-    #print(f'{st_list[0]}의 평균 점수는 {round(avg,2)}입니다.')
+    avg = sum / len(st_list[1:])
+    print(st_list[0], '의 평균:', round(avg, 2))
+    #print(f'{st_list[0]}의 평균 점수는 {round(avg,2)}입니다.') <- f string 이용법
 
 calcavg(one_list)
 
