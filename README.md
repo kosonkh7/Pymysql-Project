@@ -32,7 +32,10 @@ rental_func(): <br>
 func_return(): 반납함수 -> 대여시각과 대여소아이디 반환 -> 해당 대여소 자전거 +1<br>
 request_cycle(): 자전거 추가 배치 요청 (입력한 숫자만큼 자전거 +)<br>
 report_cycle(): 고장 신고 접수된 대여소의 자전거 처리<br>
-user_information(id): 회원 정보 출력<br>
-<br>
+user_information(id): 회원 정보 출력<br><br>
+<h2>데이터베이스 설계</h2>
 
-![image](https://user-images.githubusercontent.com/83086978/166724149-631a6725-ee1e-487b-bf1b-73f59e206915.png)
+![image](https://user-images.githubusercontent.com/83086978/166724267-3774523b-c624-4be8-9b39-300144704eaf.png)
+
+
+
