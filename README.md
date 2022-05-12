@@ -1,7 +1,7 @@
 # Pymysql-Project
 Mini project using pymysql package &amp; Collection of example files used in Python class in Web Development DT Schools<br>
 <br>
-따릉이를 모티브로 한 <b>공용 자전거 대여 어플리케이션</b>을 구현해보았다.<br>
+따릉이를 모티브로 한 <b>공용 자전거 대여 어플리케이션</b>을 구현해보았습니다.<br>
 <br>
 <h2>메인 화면</h2><br>
 파일 실행하면 
